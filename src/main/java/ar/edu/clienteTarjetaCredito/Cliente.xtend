@@ -1,4 +1,4 @@
-package clase2Unsam
+package ar.edu.clienteTarjetaCredito
 
 import org.eclipse.xtend.lib.annotations.Accessors
 

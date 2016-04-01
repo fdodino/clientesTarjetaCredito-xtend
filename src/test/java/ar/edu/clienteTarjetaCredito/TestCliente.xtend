@@ -1,4 +1,4 @@
-package clase2Unsam
+package ar.edu.clienteTarjetaCredito
 
 import org.junit.Assert
 import org.junit.Before
